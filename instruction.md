@@ -16,4 +16,6 @@
 
 > git checkout master – вернуться к актуальному состоянию и продолжить работу
 
+> Чтобы вставить ссылку - просто вставьте ссылку!
 
+https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirovanii/
