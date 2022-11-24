@@ -25,3 +25,7 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 > Одна * - *Текст будет курсивным, если его записать в одинарных 'звёздочках'*
 
  > А две ~ - ~~Зачеркнёт ваш текст~~ 
+
+Спасибо преподавателю!
+
+![](Thanks.jpg)
