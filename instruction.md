@@ -29,3 +29,5 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 Спасибо преподавателю!
 
 ![](Thanks.jpg)
+
+# Основные команды 2 семинара
