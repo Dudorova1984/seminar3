@@ -31,3 +31,5 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 ![](Thanks.jpg)
 
 # Основные команды 2 семинара
+
+> git branch – посмотреть список веток в репозитории
