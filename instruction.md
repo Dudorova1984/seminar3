@@ -35,3 +35,5 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 > git branch – посмотреть список веток в репозитории
 
 > git branch <название ветки> – создать новую ветку
+
+> git checkout <название ветки> – переход к другой ветке
