@@ -41,3 +41,7 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 > git commit -am 'massage' - 'git add .' + 'git commit -m 'message' '
 
 > git branch -d <branch_name> - удалить ветку с именем branch_name
+
+> git log --graph - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме
+
+>git branch - просто увидеть список веток
