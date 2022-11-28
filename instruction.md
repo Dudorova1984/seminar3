@@ -52,3 +52,5 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 * Работа над проектом ведется по стандартной схеме «редактирование — индексирование — коммит»
 
 > git merge --abort - отменить слияние, которое прошло с конфликтом
+
+> git merge <branch_name> - слить ветки
