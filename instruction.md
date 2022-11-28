@@ -35,3 +35,7 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 > git branch – посмотреть список веток в репозитории
 
 > git branch <название ветки> – создать новую ветку
+
+> git commit -am 'massage' - 'git add .' + 'git commit -m 'message' '
+
+> git branch -d <branch_name> - удалить ветку с именем branch_name
