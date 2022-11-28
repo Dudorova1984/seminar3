@@ -37,3 +37,7 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 > git branch <название ветки> – создать новую ветку
 
 > git checkout <название ветки> – переход к другой ветке
+
+> git commit -am 'massage' - 'git add .' + 'git commit -m 'message' '
+
+> git branch -d <branch_name> - удалить ветку с именем branch_name
