@@ -45,3 +45,6 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 > git log --graph - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме
 
 >git branch - просто увидеть список веток
+
+# Дополнительная информация из лекций
+> очистить терминал - clear
