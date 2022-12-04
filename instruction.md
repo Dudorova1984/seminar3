@@ -54,3 +54,5 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 > git merge --abort - отменить слияние, которое прошло с конфликтом
 
 > git merge <branch_name> - слить ветки
+
+# Основные команды 3 семинара
