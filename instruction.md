@@ -56,3 +56,5 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 > git merge <branch_name> - слить ветки
 
 # Основные команды 3 семинара
+
+> git clone <url> - клонирование внешнего репозитория на локальный ПК
