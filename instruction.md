@@ -58,3 +58,5 @@ https://www.interesnie-fakty.ru/nauka/kompyurery/o-programmistah-i-programmirova
 # Основные команды 3 семинара
 
 > git clone <url> - клонирование внешнего репозитория на локальный ПК
+
+> git pull - получение изменений и слияние с локальной версией
